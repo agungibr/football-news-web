@@ -3,6 +3,7 @@ In this project i make a simple website using PHP.This website can see news espe
 
 ## Built With
 * PHP
+* CSS
 * MySQL
 
 ## Features
