@@ -1,5 +1,5 @@
 # Football News
-In this project i make a simple website using PHP.This website can see news especially on football sports.
+in this project I created a website that is specialized in news about football sports using PHP and MySQL.
 
 ## Built With
 * PHP
